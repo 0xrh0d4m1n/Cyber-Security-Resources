@@ -6,8 +6,8 @@ env:
   
   # Settings
   UPSTREAM_URL: "https://github.com/eragon226/Cyber-Security-Resources.git"
-  UPSTREAM_BRANCH: "master"
-  DOWNSTREAM_BRANCH: "master"
+  UPSTREAM_BRANCH: "main"
+  DOWNSTREAM_BRANCH: "main"
   FETCH_ARGS: ""
   MERGE_ARGS: ""
   PUSH_ARGS: ""
